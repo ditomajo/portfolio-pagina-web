@@ -1291,20 +1291,19 @@ width: 83%;
 
 .contact .CTA{
 width: 200px;
-margin-left: 28%;
+margin-left: 22%;
 }
 
 .contac-social-media{
   width: 90%;
  margin-top: 30px;
+  margin-left: 25%;
 }
 
 .last-input{
 width: 83%;
 margin: 0 auto;
 }
-.contac-social-media {
-    margin-left: 15%}
 
 .contac-social-media a{
  font-size: 3rem;
