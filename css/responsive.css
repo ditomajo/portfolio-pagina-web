@@ -369,12 +369,14 @@ row-gap: 20px;
 justify-content: left;
 }
 
-.cardfoot h3{}
+.cardfoot h3{
+margin-top: 55px;
+}
 .cardfoot  a:first-of-type{
 
-margin-top: 90px;
-margin-left: 78px;
-margin-right: 20px;
+
+margin-left: 55px;
+
 }
 
 
@@ -535,6 +537,9 @@ width: 850px;
 
 }
 
+
+
+
  .card{
 width: 250px;
 height: 162px;
@@ -543,6 +548,18 @@ justify-self: center
 
 .card-image{
 margin-left: -50px;  
+
+}
+
+
+.cardfoot h3{
+margin-top: 26px;
+font-size: 2rem;
+}
+.cardfoot  a:first-of-type{
+
+
+margin-left: 35px;
 
 }
 
@@ -613,6 +630,16 @@ width: 200px;
 height: 130px;
 }
 
+.cardfoot h3{
+margin-top: 26px;
+font-size: 2rem;
+}
+.cardfoot  a:first-of-type{
+
+
+margin-left: 5px;
+
+}
 
 .design_projects .container{
 width: 750px;
@@ -714,6 +741,7 @@ width: 250px;
 height: 162px;
 }
 
+
 .cover h1{
 font-size: 2rem;
 }
@@ -760,6 +788,18 @@ left: -550px;
 top: -420px;
 
 }
+
+.cardfoot h3{
+margin-top: 77px;
+font-size: 2.2rem;
+}
+.cardfoot  a:first-of-type{
+
+
+margin-left: 153px;
+
+}
+
 
 @keyframes fig1{
 0%{
@@ -937,6 +977,19 @@ transform: rotate(150deg);
 animation: none;
 
 }
+
+.cardfoot h3{
+margin-top: 77px;
+font-size: 2.2rem;
+}
+.cardfoot  a:first-of-type{
+
+
+margin-left: 24%;
+
+}
+
+
 
 .figura3{
 width: 500px;
