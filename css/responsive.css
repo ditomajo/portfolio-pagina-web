@@ -291,6 +291,34 @@ height: 350px;
 font-size: 2rem;
 }
 
+
+.cardfoot h3{
+color: #ffffff;
+margin: 0 auto;
+text-align: center;
+vertical-align: middle;
+margin-top: 80px;
+font-size: 2.2rem;
+margin-bottom: 22px;
+font-family: 'Raleway', sans-serif;
+font-weight: 600;
+width: 100%;
+filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.712));
+transition: all 0.3s ease-in;
+}
+
+/* card foot links */
+
+
+.cardfoot  a:first-of-type{
+
+margin-top: 90px;
+margin-left: 78px;
+margin-right: 20px;
+}
+
+
+
 }
 
 /* destopk pequeño */
@@ -340,6 +368,15 @@ column-gap: 10px;
 row-gap: 20px;
 justify-content: left;
 }
+
+.cardfoot h3{}
+.cardfoot  a:first-of-type{
+
+margin-top: 90px;
+margin-left: 78px;
+margin-right: 20px;
+}
+
 
  .card{
 width: 300px;
