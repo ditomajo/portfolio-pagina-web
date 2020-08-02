@@ -966,8 +966,8 @@ margin: 0;
   
 }
 .spinner:after {
-    width: 90%;
-    height: 90%;
+    width: 85%;
+    height: 85%;
     background-color: #3314A1;
     top: 50%;
     left: 50%;
