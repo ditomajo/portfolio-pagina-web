@@ -955,7 +955,7 @@ margin: 0;
 .spinner:after{
     content: "";
     position: absolute;
-    border-radius: 50%;
+
 }
 
 .spinner:before {
@@ -963,7 +963,7 @@ margin: 0;
     height: 100%;
    clip-path: polygon(0 0, 100% 0, 45% 50%, 100% 100%, 0 100%, 45% 50%);;
    background-color: #ffb300;
-    animation: spin 1s infinite linear;
+    animation: spin 2s infinite linear;
   
 }
 /* .spinner:after {
@@ -976,8 +976,13 @@ margin: 0;
 } */
 
 @keyframes spin {
-    to {
+    from{
+    background-color: #ffebbd;
+    }
+  
+  to {
         transform: rotate(360deg);
+        background-color: #ffb300;
     }
 
 }
