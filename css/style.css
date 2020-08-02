@@ -968,7 +968,7 @@ margin: 0;
 .spinner:after {
     width: 90%;
     height: 90%;
-    background-color: #151515;
+    background-color: #3314A1;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
