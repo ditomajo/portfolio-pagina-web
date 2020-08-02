@@ -965,14 +965,14 @@ margin: 0;
     animation: spin 1s infinite linear;
   
 }
-.spinner:after {
+/* .spinner:after {
     width: 85%;
     height: 85%;
     background-color: #3314A1;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
+} */
 
 @keyframes spin {
     to {
