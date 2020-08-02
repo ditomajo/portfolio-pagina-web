@@ -942,9 +942,7 @@ margin-left: 7%;
 display: none;
 }
 
-.contac-social-media{
-margin-left: 20%;
-}
+
 
 .skills .dsi4{
 margin-left: 10px;
@@ -1286,32 +1284,42 @@ figcaption{
 }
 
 .formulario{
-width: 83%;
+width: 100%;
+}
+
+.elemento-2 input, 
+.elemento-1 input {
+width: 80%;
+
+}
+
+textarea{
+width: 80%;
 }
 
 .contact .CTA{
-width: 200px;
-margin-left: 22%;
+width: 60%;
+margin-left: 19%;
+margin-right: 19%;
 }
+
+
 
 .contac-social-media{
-  width: 90%;
- margin-top: 30px;
-  margin-left: 25%;
-}
+width: auto;
+margin: 0 7%;
+ margin-top: 60px;
 
-.last-input{
-width: 83%;
-margin: 0 auto;
 }
 
 .contac-social-media a{
  font-size: 3rem;
- padding: 10px;
-}
-.ultimo-texto{
 
-margin-left: -20%;
+}
+
+.ultimo-texto{
+justify-self: center;
+
 }
 
 }
