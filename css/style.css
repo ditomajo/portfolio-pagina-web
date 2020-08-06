@@ -348,16 +348,17 @@ width: 500px;
 height: 500px;
 justify-self: center;
 margin: 0 auto;
+background-image: url(/img/fototrans-2.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 .distortion{
 width: 500px;
 height: 500px;
 border-radius: 50%;
-background-image: url(/img/fototrans-2.jpg);
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
+
 }
 
 
