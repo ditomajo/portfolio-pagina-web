@@ -352,14 +352,28 @@ background-image: url(/img/fototrans-2.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
+transition: all .5s ease-in-out;
 }
 
-.distortion{
-width: 500px;
-height: 500px;
-border-radius: 50%;
+
+
+.distortion-container:hover{
+
+background-image: url(/img/fototrans-1.jpg);
+animation: fade-in .5s linear;
+animation-delay: .1s;
+}
+
+@keyframes fade-in{
+from{
+filter: blur(.4rem);
 
 }
+to{
+filter: blur(0);
+}
+}
+
 
 
 
