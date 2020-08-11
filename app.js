@@ -1,11 +1,4 @@
-new hoverEffect({
-	parent: document.querySelector('.distortion'),
-	intensity: 0.3,
-	angle: Math.PI / 4,
-	image1: '/img/fototrans-2.jpg',
-	image2: '/img/fototrans-1.jpg',
-	displacementImage: './img/stripe1.png'
-});
+
 
 
 // sidebar
